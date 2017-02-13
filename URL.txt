@@ -1,1 +1,4 @@
 https://docs.microsoft.com/en-us/azure/app-service-web/websites-dotnet-webjobs-sdk-get-started
+
+additional explanations
+https://docs.microsoft.com/en-us/azure/app-service-web/websites-dotnet-webjobs-sdk-storage-queues-how-to

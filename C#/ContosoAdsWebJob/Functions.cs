@@ -38,6 +38,8 @@ namespace ContosoAdsWebJob
                 }
                 ad.ThumbnailURL = outputBlob.Uri.ToString();
                 db.SaveChanges();
+
+                Console.WriteLine("Generated thumbnail for {0}.", blobInfo.BlobName);
             }
         }
 
